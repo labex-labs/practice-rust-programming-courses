@@ -13,8 +13,6 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 ## More Courses
 
-## More Courses
-
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
 - [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
