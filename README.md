@@ -6,10 +6,10 @@
 
 Rust is a modern systems programming language focusing on safety, speed, and concurrency. It is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
 
-|   Index | Name                                            | Level   | Repo                                                          | Course Link                                                        |
-|---------|-------------------------------------------------|---------|---------------------------------------------------------------|--------------------------------------------------------------------|
-|       1 | [Quick Start with Rust](#quick-start-with-rust) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-rust) | [🚀 Start Learning](https://labex.io/courses/quick-start-with-rust) |
-|       2 | [Rust Practice Labs](#rust-practice-labs)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/rust-practice-labs)    | [🚀 Start Learning](https://labex.io/courses/rust-practice-labs)    |
+|   Index | Name                                                                    | Level   | Repo                                                          | Course Link                                               |
+|---------|-------------------------------------------------------------------------|---------|---------------------------------------------------------------|-----------------------------------------------------------|
+|       1 | [Quick Start with Rust](https://labex.io/courses/quick-start-with-rust) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-rust) | [🚀 Start](https://labex.io/courses/quick-start-with-rust) |
+|       2 | [Rust Practice Labs](https://labex.io/courses/rust-practice-labs)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/rust-practice-labs)    | [🚀 Start](https://labex.io/courses/rust-practice-labs)    |
 
 ## More Courses
 
